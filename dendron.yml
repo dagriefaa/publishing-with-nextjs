@@ -80,7 +80,7 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
-    siteFaviconPath: icon
+    siteFaviconPath: favicon.ico
     customHeaderPath: header.html
     siteUrl: 'https://Harshita-mindfire.github.io'
     assetsPrefix: /publishing-with-nextjs
