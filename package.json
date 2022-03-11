@@ -1,0 +1,23 @@
+{
+  "name": "publishing-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshita-mindfire/publishing-with-nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshita-mindfire/publishing-with-nextjs/issues"
+  },
+  "homepage": "https://github.com/Harshita-mindfire/publishing-with-nextjs#readme",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "*"
+  }
+}
