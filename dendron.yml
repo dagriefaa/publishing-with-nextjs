@@ -96,7 +96,7 @@ publishing:
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
-        editRepository: "https://github.com/Harshita-mindfire/publishing-with-nextjs"
+        editRepository: 'https://github.com/dendronhq/dendron-site'
         editBranch: main
         editViewMode: tree
     enableSiteLastModified: true
