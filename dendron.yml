@@ -96,6 +96,7 @@ publishing:
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
+        editRepository: "https://github.com/Harshita-mindfire/publishing-with-nextjs"
         editBranch: main
         editViewMode: tree
     enableSiteLastModified: true
