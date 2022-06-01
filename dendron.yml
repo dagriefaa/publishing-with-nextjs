@@ -76,6 +76,8 @@ preview:
 publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
+    enableHierarchyDisplay: true
+    hierarchyDisplayTitle: Better Children
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
